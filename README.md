@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Screenshot of home screen](pictures/home_screen.png)
 ![Screenshot of details screen](pictures/details_screen.png)
+![Screenshot of details screen](pictures/details_screen_2.png)

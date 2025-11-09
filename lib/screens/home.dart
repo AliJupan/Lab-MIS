@@ -17,7 +17,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Exam(
       id: index,
       name: "Испит ${index + 1}",
-      date: DateTime(2025, 10, index + 28,7 + index),
+      date: DateTime(2025, 11, index + 5,7 + index),
       places: ["Лаб А", "Лаб Б", "Лаб Ц"],
     );
   });
